@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eef470c-9d8d-47b3-bd48-1089cf5a3ada" name="Changes" comment="">
+    <list default="true" id="7eef470c-9d8d-47b3-bd48-1089cf5a3ada" name="Changes" comment="початковий коміт">
       <change afterPath="$PROJECT_DIR$/.idea/git-demo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2zXlLYDBOCnizYNCTyZFOfaFCOw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,11 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751885243769</updated>
-      <workItem from="1751885245575" duration="1616000" />
+      <workItem from="1751885245575" duration="2189000" />
     </task>
+    <task id="LOCAL-00001" summary="початковий коміт">
+      <option name="closed" value="true" />
+      <created>1751890597410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751890597410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="початковий коміт" />
+    <option name="LAST_COMMIT_MESSAGE" value="початковий коміт" />
   </component>
 </project>
