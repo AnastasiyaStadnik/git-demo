@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eef470c-9d8d-47b3-bd48-1089cf5a3ada" name="Changes" comment="додала файли asd.txt та gwe.txt, та внеслаа у них зміни">
-      <change afterPath="$PROJECT_DIR$/fail.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7eef470c-9d8d-47b3-bd48-1089cf5a3ada" name="Changes" comment="додала файли asd.txt та gwe.txt, та внеслаа у них зміни" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
